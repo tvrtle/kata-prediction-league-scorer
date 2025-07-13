@@ -6,7 +6,7 @@ A simple, test-driven PHP kata where you implement the logic for scoring footbal
 
 ## 📝 Project Brief
 
-Your task is to build a minimal scoring system for a football (soccer) **prediction league**.
+Your task is to build a minimal scoring system for a football **prediction league**.
 
 The league awards points as follows:
 

@@ -1,0 +1,1 @@
+# Prediction League Scorer Kata
